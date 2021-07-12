@@ -18,7 +18,7 @@ A aplicação foi criada para a resolução de um desafio em um teste para uma v
 
 ## Pré-requisitos
 
--FastAPI
+- FastAPI
 ```bash
 pip install fastapi
 ```
