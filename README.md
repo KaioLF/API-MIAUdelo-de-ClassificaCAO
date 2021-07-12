@@ -18,6 +18,11 @@ A aplicação foi criada para a resolução de um desafio em um teste para uma v
 
 ## Pré-requisitos
 
+-FastAPI
+```bash
+pip install fastapi
+```
+
 - Tensorflow
 ```bash
 pip install tensorflow-directml
@@ -30,9 +35,9 @@ pip install numpy
 ```bash
 pip install pillow
 ```
-- Pydantic
+- Python Multipart
 ```bash
-pip install pydantic
+pip install python-multipart
 ```
 - Uvicorn
 ```bash
