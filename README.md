@@ -5,7 +5,7 @@
 
 O MIAUdelo de ClassificaCAO é um modelo de classificação de imagens de gatos e cachorros.
 
-A aplicação foi criada como resolução de um desafio de aplicação para uma vaga de emprego.
+A aplicação foi criada para a resolução de um desafio em um teste para uma vaga de emprego.
 
 
 # Tecnologias utilizadas
