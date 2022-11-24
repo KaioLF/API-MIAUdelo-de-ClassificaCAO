@@ -7,6 +7,8 @@ O MIAUdelo de ClassificaCAO é um modelo de classificação de imagens de gatos 
 
 A aplicação foi criada para a resolução de um desafio em um teste para uma vaga de emprego.
 
+O modelo de classificação foi desenvolvido seguindo o tutorial do https://github.com/Sentdex
+
 
 # Tecnologias utilizadas
 - Python
